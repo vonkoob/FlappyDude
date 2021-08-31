@@ -1,5 +1,4 @@
 var 
-
 s_bird,
 s_bg,
 s_fg,
